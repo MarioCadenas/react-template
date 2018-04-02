@@ -7,4 +7,4 @@
 * Firebase
 * Redux
 * Server (Node)
-* Testing (Jest)
+* Testing (Jest + Enzyme)
